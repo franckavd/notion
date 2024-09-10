@@ -1,2 +1,0 @@
-<altfins-screener-data-component symbols='["BTC", "ETH", "ATOM"]' theme='no-border compact dark wrap-cell-content' valueids='["COIN", "LAST_PRICE", "PRICE_CHANGE_1D", "DOLLAR_VOLUME", "SMA20_SMA50_BS_SIGNAL", "MACD_BS_SIGNAL", "TIME"]' affiliateid='test_id'></altfins-screener-data-component>
-<script type="module" src="https://cdn.altfins.com/js/altfins-screener-data-component.js"></script>
